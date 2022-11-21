@@ -1,14 +1,13 @@
 ### Hi there 👋..Good to see you !
 I'm Dhruv Shah, a computer science enthusiast, learning and exploring different fields in this domain.
 <p align = "left">
-- Reach me at 📧: .[Email].(mailto:shahdhruvmayank@gmail.com)
+- Reach me at 📧: <a href = "mailto: shahdhruvmayank@gmail.com">Email</a>
 <h3 align="left">We can connect:</h3>
-<p align="left">
- <a href="https://github.com/Proder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Github" height="27" width="36" /></a>
+<a href="https://github.com/Proder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Github" height="27" width="36" /></a>
 <a href="https://twitter.com/Dmhshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="27" width="36" /></a>
 <a href="https://instagram.com/dshah_018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="27" width="36" /></a>
  <a href="https://linkedin.com/in/dhruv-shah-a1b078224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="27" width="36" /></a>
-</p>
+
 
 
 <!--
