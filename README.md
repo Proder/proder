@@ -1,7 +1,7 @@
 ### Hi there 👋..Good to see you !
 I'm Dhruv Shah, a computer science enthusiast, learning and exploring different fields in this domain.
 <p align = "left">
-- Reach me at 📧: [Email](mailto:shahdhruvmayank@gmail.com)
+- Reach me at 📧: .[Email].(mailto:shahdhruvmayank@gmail.com)
 <h3 align="left">We can connect:</h3>
 <p align="left">
  <a href="https://github.com/Proder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Github" height="27" width="36" /></a>
