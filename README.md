@@ -3,8 +3,8 @@
 A computer science enthusiast, learning and exploring different fields in this domain.
 <p align = "left">
 - Reach me at 📧: <a href = "mailto: shahdhruvmayank@gmail.com">Email</a>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Proder&show_icons=true&theme=dark&locale=en&layout=compact" alt="Proder" /></p>
- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Proder&show_icons=true&theme=dark&locale=en" alt="Proder" /></p></br><br />
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Proder&show_icons=true&theme=dark&locale=en&layout=compact" alt="Proder" /></p></br></br>
+ <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Proder&show_icons=true&theme=dark&locale=en" alt="Proder" /></p></br></br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Proder&theme=dark" alt="Proder" /></p>
 
   <p><h3 align="left">We can connect:</h3>
