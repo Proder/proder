@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Shah...Good to see you !</h1>
-A computer science and finance enthusiast, learning and exploring different fields in this domain in this field
+An AI and finance enthusiast, learning and exploring different domains around this field.
 <img align="right" alt="coding" width="400" height="300" src="https://github.com/Proder/proder/assets/97831986/da4420fb-31af-42dd-a7f5-5a2139b61ea2"
 >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Proder&label=Profile%20views&color=0e75b6&style=flat" alt="proder" /> </p>
