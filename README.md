@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Dhruv Shah...Good to see you !</h1>
-An AI and finance enthusiast, learning and exploring different domains around this field.
+<h1 align="center">Hi 👋,Good to see you !</h1>
+<h2 align="center">I am Dhruv Shah, an AI and finance enthusiast, trying, learning and exploring different domains around this field.</h2><br/><br/><br/>
 <img align="right" alt="coding" width="400" height="300" src="https://github.com/Proder/proder/assets/97831986/da4420fb-31af-42dd-a7f5-5a2139b61ea2"
 >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Proder&label=Profile%20views&color=0e75b6&style=flat" alt="proder" /> </p>
 
 
-- 📫 How to reach me **shahdhruvmayank@gmail.com**
+- 📫 Email: **shahdhruvmayank@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,6 +19,6 @@ An AI and finance enthusiast, learning and exploring different domains around th
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=proder&show_icons=true&theme=dark&&locale=en&layout=compact" alt="proder" /></p>
 
-<p>&nbsp;</p><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=proder&show_icons=true&theme=dark&&locale=en" alt="proder" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=proder&show_icons=true&theme=dark&&locale=en" alt="proder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=proder&theme=dark" alt="proder" /></p>
